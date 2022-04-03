@@ -1,0 +1,12 @@
+h1 {
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    padding: 10px;
+  }
+  .container {
+    display: flex;
+    align-items: center;
+    margin: 30px;
+    justify-content: center;
+  }
